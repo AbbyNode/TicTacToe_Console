@@ -1,0 +1,2 @@
+E:\Programming\Cpp\VisualStudio\TicTacToe_Console\Debug\TicTacToe_Console.exe
+E:\Programming\Cpp\VisualStudio\TicTacToe_Console\Debug\TicTacToe_Console.pdb
